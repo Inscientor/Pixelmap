@@ -1,0 +1,6 @@
+C:\Users\Inwerwm\Source\Repos\Pixelmap\Pixelmap\bin\Debug\Pixelmap.dll
+C:\Users\Inwerwm\Source\Repos\Pixelmap\Pixelmap\bin\Debug\Pixelmap.pdb
+C:\Users\Inwerwm\Source\Repos\Pixelmap\Pixelmap\obj\Debug\Pixelmap.csprojAssemblyReference.cache
+C:\Users\Inwerwm\Source\Repos\Pixelmap\Pixelmap\obj\Debug\Pixelmap.csproj.CoreCompileInputs.cache
+C:\Users\Inwerwm\Source\Repos\Pixelmap\Pixelmap\obj\Debug\Pixelmap.dll
+C:\Users\Inwerwm\Source\Repos\Pixelmap\Pixelmap\obj\Debug\Pixelmap.pdb
